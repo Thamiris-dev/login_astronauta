@@ -5,6 +5,14 @@ Tela de login com tema de astronauta desenvolvida como estudo prático de **HTML
 O objetivo do projeto é praticar a criação de uma interface de login responsiva, usando formulário, imagem temática, ícones, fontes externas e Media Queries.
 
 > Projeto de estudo. A tela representa uma interface visual de login, mas não possui backend de autenticação.
+<br>
+
+## Tela de login do projeto
+
+<p align="center">
+  <img src="imagens/login-preview.png" alt="Preview da tela de login" width="700">
+</p>
+
 
 ## Sobre o projeto
 
